@@ -1,6 +1,7 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+active: false
 widget: about
 
 # Activate this widget? true/false
